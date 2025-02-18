@@ -1,5 +1,4 @@
-# apriori-data-mining
-# Apriori Data Mining Project
+# Apriori Data Mining 
 
 ## 📌 Overview
 
